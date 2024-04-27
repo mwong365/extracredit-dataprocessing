@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michael/CLionProjects/extracredit-dataprocessing/Transaction.cpp
+Transaction.h
+C:/Users/Michael/CLionProjects/extracredit-dataprocessing/Transaction.h
+
+C:/Users/Michael/CLionProjects/extracredit-dataprocessing/Transaction.h
+vector
+-
+algorithm
+-
+functional
+-
+
+C:/Users/Michael/CLionProjects/extracredit-dataprocessing/main.cpp
+iostream
+-
+Transaction.h
+C:/Users/Michael/CLionProjects/extracredit-dataprocessing/Transaction.h
+Transaction.cpp
+C:/Users/Michael/CLionProjects/extracredit-dataprocessing/Transaction.cpp
+
